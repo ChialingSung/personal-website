@@ -1,0 +1,46 @@
+---
+title: "Curriculum Vitae"
+---
+
+## 📄 My Resume
+
+I am currently a graduate student in **Applied Business Analytics** at **Boston University - MET College**, with a strong academic foundation in **Accounting** and hands-on experience in data analysis, visualization, and business decision support.
+
+I’m passionate about solving business problems with data, and continuously expanding my skillset in both technical tools and business communication.
+
+
+:::{=html}
+<h2>💻 SKILLS</h2>
+
+<h3>🗣️ LANGUAGES</h3>
+<span>R</span>
+<div class="bar"><div class="fill" style="width: 85%"></div></div>
+<span>Python</span>
+<div class="bar"><div class="fill" style="width: 90%"></div></div>
+<span>SQL</span>
+<div class="bar"><div class="fill" style="width: 88%"></div></div>
+
+<h3>📊 VISUALIZATION</h3>
+<span>Tableau</span>
+<div class="bar"><div class="fill" style="width: 80%"></div></div>
+<span>Excel</span>
+<div class="bar"><div class="fill" style="width: 85%"></div></div>
+<span>ggplot2</span>
+<div class="bar"><div class="fill" style="width: 75%"></div></div>
+
+<h3>🧰 TOOLS</h3>
+<span>GitHub</span>
+<div class="bar"><div class="fill" style="width: 85%"></div></div>
+<span>Quarto</span>
+<div class="bar"><div class="fill" style="width: 78%"></div></div>
+<span>Jupyter</span>
+<div class="bar"><div class="fill" style="width: 82%"></div></div>
+<span>VS Code</span>
+<div class="bar"><div class="fill" style="width: 80%"></div></div>
+:::
+
+
+## 📥 Download CV
+
+[💖 Click here to download my resume (PDF)](Chialing%20Sung_CV.pdf){.button-link}
+

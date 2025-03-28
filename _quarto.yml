@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "✿ Content ✿"
+  sidebar:
+    style: floating  
+    search: false 
+    collapse-level: 1    
+    contents:
+      - href: index.qmd
+        text: 🏠 Home
+      - href: about.qmd
+        text: 🌸 About Me
+      - href: projects.qmd
+        text: 💻 Projects
+      - href: cv.qmd
+        text: 📄 CV
+      - href: contact.qmd
+        text: 💌 Contact
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true

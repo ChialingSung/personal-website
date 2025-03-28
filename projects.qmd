@@ -1,0 +1,39 @@
+---
+title: "Projects"
+---
+
+
+## 📈 Investment Portfolio Analysis and Risk Assessment
+
+**Tools:** Python, Pandas, NumPy, statsmodels 
+
+- Performed portfolio risk & return analysis with univariate and multivariate regression  
+- Applied CAPM to predict Expected Return, achieving **R² = 0.86**  
+- Used Monte Carlo simulations to model stock prices and inform diversification strategies  
+
+
+
+---
+
+## 🤖 Strategic Insights for Virtual Assistant Launch (Internship)
+
+**Tools:** Python, Excel  
+
+- Retrieved and analyzed product & website traffic data  
+- Supported launch of a virtual assistant feature  
+- Insights led to a **34% increase in page views**
+
+
+---
+
+## 🏙️ NYC Real Estate Trends
+
+**Tools:** R, Tableau
+
+- Analyzed residential property sales over 5 years  
+- Cleaned dataset and removed outliers using statistical rules  
+- Created trend visualizations to support investment decisions  
+
+
+
+> More project details available on [GitHub](https://github.com/ChialingSung)

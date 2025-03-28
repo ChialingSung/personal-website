@@ -1,0 +1,206 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "I am currently a graduate student in Applied Business Analytics at Boston University - MET College, with a strong academic foundation in Accounting and hands-on experience in data analysis, visualization, and business decision support.\nI’m passionate about solving business problems with data, and continuously expanding my skillset in both technical tools and business communication.\n\n\n\nR\n\n\n\n\n\nPython\n\n\n\n\n\nSQL\n\n\n\n\n\n\nTableau\n\n\n\n\n\nExcel\n\n\n\n\n\nggplot2\n\n\n\n\n\n\nGitHub\n\n\n\n\n\nQuarto\n\n\n\n\n\nJupyter\n\n\n\n\n\nVS Code",
+    "crumbs": [
+      "📄 CV"
+    ]
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "💻 SKILLS",
+    "text": "💻 SKILLS\n\n\n\n\n🗣️ LANGUAGES\n\n\n&lt;span&gt;R&lt;/span&gt;\n&lt;div class=\"bar\"&gt;&lt;div class=\"fill\" style=\"width: 85%\"&gt;&lt;/div&gt;&lt;/div&gt;\n\n\n&lt;span&gt;Python&lt;/span&gt;\n&lt;div class=\"bar\"&gt;&lt;div class=\"fill\" style=\"width: 90%\"&gt;&lt;/div&gt;&lt;/div&gt;\n\n\n&lt;span&gt;SQL&lt;/span&gt;\n&lt;div class=\"bar\"&gt;&lt;div class=\"fill\" style=\"width: 88%\"&gt;&lt;/div&gt;&lt;/div&gt;\n\n\n\n\n\n📊 VISUALIZATION\n\n\n&lt;span&gt;Tableau&lt;/span&gt;\n&lt;div class=\"bar\"&gt;&lt;div class=\"fill\" style=\"width: 80%\"&gt;&lt;/div&gt;&lt;/div&gt;\n\n\n&lt;span&gt;Excel&lt;/span&gt;\n&lt;div class=\"bar\"&gt;&lt;div class=\"fill\" style=\"width: 85%\"&gt;&lt;/div&gt;&lt;/div&gt;\n\n\n&lt;span&gt;ggplot2&lt;/span&gt;\n&lt;div class=\"bar\"&gt;&lt;div class=\"fill\" style=\"width: 75%\"&gt;&lt;/div&gt;&lt;/div&gt;\n\n\n\n\n\n🧰 TOOLS\n\n\n&lt;span&gt;GitHub&lt;/span&gt;\n&lt;div class=\"bar\"&gt;&lt;div class=\"fill\" style=\"width: 85%\"&gt;&lt;/div&gt;&lt;/div&gt;\n\n\n&lt;span&gt;Quarto&lt;/span&gt;\n&lt;div class=\"bar\"&gt;&lt;div class=\"fill\" style=\"width: 78%\"&gt;&lt;/div&gt;&lt;/div&gt;\n\n\n&lt;span&gt;Jupyter&lt;/span&gt;\n&lt;div class=\"bar\"&gt;&lt;div class=\"fill\" style=\"width: 82%\"&gt;&lt;/div&gt;&lt;/div&gt;\n\n\n&lt;span&gt;VS Code&lt;/span&gt;\n&lt;div class=\"bar\"&gt;&lt;div class=\"fill\" style=\"width: 80%\"&gt;&lt;/div&gt;&lt;/div&gt;",
+    "crumbs": [
+      "📄 CV"
+    ]
+  },
+  {
+    "objectID": "cv.html#download-cv",
+    "href": "cv.html#download-cv",
+    "title": "Curriculum Vitae",
+    "section": "📥 Download CV",
+    "text": "📥 Download CV\n💖 Click here to download my resume (PDF)",
+    "crumbs": [
+      "📄 CV"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "✿ Content ✿",
+    "section": "",
+    "text": "Welcome to my website! \nMy name is Chialing Sung 💖 \n💼 Graduate Student at Boston University - MET \n📊 Pursuing a Master’s in Applied Business Analytics \n🧾 With a background in Accounting & a passion for Analytics & Machine Learning 💻✨ \n🌸 Enter Portfolio",
+    "crumbs": [
+      "🏠 Home"
+    ]
+  },
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "With a strong foundation in Accounting, I approach data with precision and structure. My passion for Analytics and Machine Learning drives me to transform data into meaningful business insights."
+  },
+  {
+    "objectID": "home.html#hi-im-chialing-sung",
+    "href": "home.html#hi-im-chialing-sung",
+    "title": "Welcome to My Website",
+    "section": "💗 Hi, I’m Chialing Sung",
+    "text": "💗 Hi, I’m Chialing Sung\n🎓 I’m a graduate student at Boston University - MET, pursuing a Master’s in Applied Business Analytics."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "✿ Content ✿",
+    "section": "",
+    "text": "I’m always open to networking, collaboration, or new opportunities.\nFeel free to reach out to me through the channels below:\n\n\n📧 Email: sungcl@bu.edu\n\n💼 LinkedIn: linkedin.com/in/chialing-sung\n\n💻 GitHub: github.com/ChialingSung\n\n\nLet’s connect and build something meaningful together! 🌷",
+    "crumbs": [
+      "💌 Contact"
+    ]
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Tools: Python, Pandas, NumPy, statsmodels\n\nPerformed portfolio risk & return analysis with univariate and multivariate regression\n\nApplied CAPM to predict Expected Return, achieving R² = 0.86\n\nUsed Monte Carlo simulations to model stock prices and inform diversification strategies",
+    "crumbs": [
+      "💻 Projects"
+    ]
+  },
+  {
+    "objectID": "projects.html#machine-learning-for-consumer-complaints",
+    "href": "projects.html#machine-learning-for-consumer-complaints",
+    "title": "Projects",
+    "section": "",
+    "text": "Built a Naive Bayes model to predict dispute likelihood using real complaint data.\nTools: R, caret, dplyr, ggplot2",
+    "crumbs": [
+      "💻 Projects"
+    ]
+  },
+  {
+    "objectID": "projects.html#real-estate-market-dashboard",
+    "href": "projects.html#real-estate-market-dashboard",
+    "title": "Projects",
+    "section": "",
+    "text": "Analyzed NYC real estate trends using historical sales data.\nCreated KPI charts and projections using Excel and Tableau.",
+    "crumbs": [
+      "💻 Projects"
+    ]
+  },
+  {
+    "objectID": "projects.html#production-cycle-time-tracker",
+    "href": "projects.html#production-cycle-time-tracker",
+    "title": "Projects",
+    "section": "",
+    "text": "Built process time tracking dashboards for manufacturing lines.\nWorked closely with maintenance and operations teams.\n\n\nMore project details available on GitHub",
+    "crumbs": [
+      "💻 Projects"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a graduate student at Boston University - MET College, pursuing a Master’s degree in Applied Business Analytics.\nWith a strong background in Accounting and a growing passion for Data Analytics and Machine Learning, I enjoy turning data into meaningful insights to support better decision-making.\nI’m also an INFJ — a personality type often described as empathetic, insightful, and purpose-driven. This guides my approach to work, as I care deeply about creating meaningful impact through data and thoughtful analysis.\nI believe in lifelong learning, and I’m always excited to explore new tools, techniques, and technologies in the ever-evolving world of data.\n\n\n\n📓 Journaling & Aesthetic Notetaking\nI enjoy creating cozy, visually pleasing notes — it’s both relaxing and motivating.\n🎨 Drawing Cute Characters & Pixel Art\nBringing pastel-style characters to life with my Apple Pencil is one of my favorite creative outlets.\n☕ Exploring Cafes & Making Desserts\nI enjoy discovering cozy cafés on weekends and experimenting with pour-over coffee at home. Baking sweet treats is my favorite way to unwind.\n🎮 Playing Cozy Games\nI love games like Stardew Valley and Animal Crossing that help me unwind and inspire my creativity.\n✨ Collecting Pastel Stationery & Stickers\nThere’s something magical about finding a new washi tape or adding sparkly stickers to my planner!",
+    "crumbs": [
+      "🌸 About Me"
+    ]
+  },
+  {
+    "objectID": "about.html#career-goals",
+    "href": "about.html#career-goals",
+    "title": "About Me",
+    "section": "🎯 Career Goals",
+    "text": "🎯 Career Goals\nI’m deeply interested in the consulting industry—especially the dynamic, fast-paced environment where every project brings new challenges and learning opportunities.\nAs I explore this path, I’m excited by how consultants combine data-driven insights with strategic thinking to solve real-world business problems. I hope to apply my analytical skills, communication abilities, and curiosity to help organizations make smarter decisions and drive meaningful impact.\nCurrently, I’m learning more about different consulting domains, attending workshops, and connecting with professionals to better understand how I can contribute and grow in this field.\nNice to meet you! 😊",
+    "crumbs": [
+      "🌸 About Me"
+    ]
+  },
+  {
+    "objectID": "projects.html#investment-portfolio-analysis-and-risk-assessment",
+    "href": "projects.html#investment-portfolio-analysis-and-risk-assessment",
+    "title": "Projects",
+    "section": "",
+    "text": "Tools: Python, Pandas, NumPy, statsmodels\n\nPerformed portfolio risk & return analysis with univariate and multivariate regression\n\nApplied CAPM to predict Expected Return, achieving R² = 0.86\n\nUsed Monte Carlo simulations to model stock prices and inform diversification strategies",
+    "crumbs": [
+      "💻 Projects"
+    ]
+  },
+  {
+    "objectID": "projects.html#strategic-insights-for-virtual-assistant-launch-internship",
+    "href": "projects.html#strategic-insights-for-virtual-assistant-launch-internship",
+    "title": "Projects",
+    "section": "🤖 Strategic Insights for Virtual Assistant Launch (Internship)",
+    "text": "🤖 Strategic Insights for Virtual Assistant Launch (Internship)\nTools: Python, Excel\n\nRetrieved and analyzed product & website traffic data\n\nSupported launch of a virtual assistant feature\n\nInsights led to a 34% increase in page views",
+    "crumbs": [
+      "💻 Projects"
+    ]
+  },
+  {
+    "objectID": "projects.html#nyc-real-estate-trends",
+    "href": "projects.html#nyc-real-estate-trends",
+    "title": "Projects",
+    "section": "🏙️ NYC Real Estate Trends",
+    "text": "🏙️ NYC Real Estate Trends\nTools: R, Tableau\n\nAnalyzed residential property sales over 5 years\n\nCleaned dataset and removed outliers using statistical rules\n\nCreated trend visualizations to support investment decisions\n\n\nMore project details available on GitHub",
+    "crumbs": [
+      "💻 Projects"
+    ]
+  },
+  {
+    "objectID": "cv.html#my-resume",
+    "href": "cv.html#my-resume",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "I am currently a graduate student in Applied Business Analytics at Boston University - MET College, with a strong academic foundation in Accounting and hands-on experience in data analysis, visualization, and business decision support.\nI’m passionate about solving business problems with data, and continuously expanding my skillset in both technical tools and business communication.\n\n\n\nR\n\n\n\n\n\nPython\n\n\n\n\n\nSQL\n\n\n\n\n\n\nTableau\n\n\n\n\n\nExcel\n\n\n\n\n\nggplot2\n\n\n\n\n\n\nGitHub\n\n\n\n\n\nQuarto\n\n\n\n\n\nJupyter\n\n\n\n\n\nVS Code",
+    "crumbs": [
+      "📄 CV"
+    ]
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "Curriculum Vitae",
+    "section": "🗣️ LANGUAGES",
+    "text": "🗣️ LANGUAGES\n\n\n\n💻 SKILLS\n\n\n&lt;h3&gt;🗣️ LANGUAGES&lt;/h3&gt;\n&lt;div class=\"skill-block\"&gt;\n  &lt;span&gt;R&lt;/span&gt;\n  &lt;div class=\"bar\"&gt;&lt;div class=\"fill\" style=\"width: 85%\"&gt;&lt;/div&gt;&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=\"skill-block\"&gt;\n  &lt;span&gt;Python&lt;/span&gt;\n  &lt;div class=\"bar\"&gt;&lt;div class=\"fill\" style=\"width: 90%\"&gt;&lt;/div&gt;&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=\"skill-block\"&gt;\n  &lt;span&gt;SQL&lt;/span&gt;\n  &lt;div class=\"bar\"&gt;&lt;div class=\"fill\" style=\"width: 88%\"&gt;&lt;/div&gt;&lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;h3&gt;📊 VISUALIZATION&lt;/h3&gt;\n&lt;div class=\"skill-block\"&gt;\n  &lt;span&gt;Tableau&lt;/span&gt;\n  &lt;div class=\"bar\"&gt;&lt;div class=\"fill\" style=\"width: 80%\"&gt;&lt;/div&gt;&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=\"skill-block\"&gt;\n  &lt;span&gt;Excel&lt;/span&gt;\n  &lt;div class=\"bar\"&gt;&lt;div class=\"fill\" style=\"width: 85%\"&gt;&lt;/div&gt;&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=\"skill-block\"&gt;\n  &lt;span&gt;ggplot2&lt;/span&gt;\n  &lt;div class=\"bar\"&gt;&lt;div class=\"fill\" style=\"width: 75%\"&gt;&lt;/div&gt;&lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;h3&gt;🔐 TOOLS&lt;/h3&gt;\n&lt;div class=\"skill-block\"&gt;\n  &lt;span&gt;GitHub&lt;/span&gt;\n  &lt;div class=\"bar\"&gt;&lt;div class=\"fill\" style=\"width: 85%\"&gt;&lt;/div&gt;&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=\"skill-block\"&gt;\n  &lt;span&gt;Quarto&lt;/span&gt;\n  &lt;div class=\"bar\"&gt;&lt;div class=\"fill\" style=\"width: 78%\"&gt;&lt;/div&gt;&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=\"skill-block\"&gt;\n  &lt;span&gt;Jupyter&lt;/span&gt;\n  &lt;div class=\"bar\"&gt;&lt;div class=\"fill\" style=\"width: 82%\"&gt;&lt;/div&gt;&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=\"skill-block\"&gt;\n  &lt;span&gt;VS Code&lt;/span&gt;\n  &lt;div class=\"bar\"&gt;&lt;div class=\"fill\" style=\"width: 80%\"&gt;&lt;/div&gt;&lt;/div&gt;\n&lt;/div&gt;",
+    "crumbs": [
+      "📄 CV"
+    ]
+  },
+  {
+    "objectID": "contact.html#title-get-in-touch",
+    "href": "contact.html#title-get-in-touch",
+    "title": "✿ Content ✿",
+    "section": "title: “Get in Touch 💌”",
+    "text": "title: “Get in Touch 💌”\nI’m always open to networking, collaboration, or new opportunities.\nFeel free to reach out to me through the channels below:\n\n📧 Email: sungcl@bu.edu\n💼 LinkedIn: linkedin.com/in/chialing-sung\n💻 GitHub: github.com/ChialingSung\n\nLet’s connect and build something meaningful together! 🌷",
+    "crumbs": [
+      "💌 Contact"
+    ]
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "✿ Content ✿",
+    "section": "",
+    "text": "I’m always open to networking, collaboration, or new opportunities.\nFeel free to reach out to me through the channels below:\n\n\n📧 Email: sungcl@bu.edu\n\n💼 LinkedIn: linkedin.com/in/chialing-sung\n\n💻 GitHub: github.com/ChialingSung\n\n\nLet’s connect and build something meaningful together! 🌷",
+    "crumbs": [
+      "💌 Contact"
+    ]
+  },
+  {
+    "objectID": "about.html#hi-im-chialing-sung",
+    "href": "about.html#hi-im-chialing-sung",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a graduate student at Boston University - MET College, pursuing a Master’s degree in Applied Business Analytics.\nWith a strong background in Accounting and a growing passion for Data Analytics and Machine Learning, I enjoy turning data into meaningful insights to support better decision-making.\nI’m also an INFJ — a personality type often described as empathetic, insightful, and purpose-driven. This guides my approach to work, as I care deeply about creating meaningful impact through data and thoughtful analysis.\nI believe in lifelong learning, and I’m always excited to explore new tools, techniques, and technologies in the ever-evolving world of data.\n\n\n\n📓 Journaling & Aesthetic Notetaking\nI enjoy creating cozy, visually pleasing notes — it’s both relaxing and motivating.\n🎨 Drawing Cute Characters & Pixel Art\nBringing pastel-style characters to life with my Apple Pencil is one of my favorite creative outlets.\n☕ Exploring Cafes & Making Desserts\nI enjoy discovering cozy cafés on weekends and experimenting with pour-over coffee at home. Baking sweet treats is my favorite way to unwind.\n🎮 Playing Cozy Games\nI love games like Stardew Valley and Animal Crossing that help me unwind and inspire my creativity.\n✨ Collecting Pastel Stationery & Stickers\nThere’s something magical about finding a new washi tape or adding sparkly stickers to my planner!",
+    "crumbs": [
+      "🌸 About Me"
+    ]
+  }
+]

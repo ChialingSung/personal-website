@@ -1,0 +1,284 @@
+/* ------------------ Base Style ------------------ */
+body {
+  margin: 0;
+  background-color: #fff0f5;
+  color: #4c3c4c;
+  font-family: "Chalkboard SE", "Segoe UI", "Hiragino Sans", "Noto Sans JP", sans-serif;
+}
+
+/* ------------------ Particles Layer ------------------ */
+#particles-js {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  top: 0;
+  left: 0;
+}
+
+/* ------------------ Hero Section ------------------ */
+.hero-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 3rem 1rem;
+  text-align: center;
+}
+
+.hero-text {
+  max-width: 650px;
+  font-size: 1.15rem;
+  line-height: 1.8rem;
+  background-color: rgba(255, 240, 245, 0.92);
+  padding: 1.5rem 2rem;
+  border-radius: 18px;
+  box-shadow: 0 6px 24px rgba(255, 153, 204, 0.35);
+}
+
+.hero-text-with-doll {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* ------------------ Buttons ------------------ */
+.button-link {
+  background-color: #ff99cc;
+  color: white;
+  padding: 12px 24px;
+  margin-top: 20px;
+  display: inline-block;
+  border-radius: 16px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.1rem;
+  box-shadow: 0 0 10px #ff99cc88;
+  transition: all 0.3s ease;
+  animation: pulse 2.4s infinite ease-in-out;
+}
+.button-link:hover {
+  background-color: #ff66aa;
+  transform: scale(1.05);
+}
+
+/* ------------------ Sidebar ------------------ */
+.sidebar {
+  background-color: #fff5f8 !important;
+  border-radius: 18px;
+  padding: 0.8rem 1rem 1rem 1rem;
+  margin: 1.5rem 2rem 0 2rem;
+  box-shadow: 0 4px 20px rgba(255, 153, 204, 0.2);
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.sidebar-title {
+  font-size: 1.8rem;
+  color: #d63384;
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+  font-family: "Chalkboard SE", "Segoe UI", sans-serif;
+}
+
+/* Sidebar links */
+.sidebar nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.sidebar nav a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 220px;
+  font-weight: 700;
+  font-size: 1.6rem !important;
+  padding: 0.6rem 1rem;
+  border-radius: 12px;
+  color: #5c3a4c !important;
+  text-decoration: none;
+  letter-spacing: 0.5px;
+  transition: all 0.25s ease;
+  animation: slideIn 0.6s ease-out both;
+}
+
+.sidebar nav a:hover {
+  background-color: #ffe6f2;
+  color: #b4005a !important;
+  transform: scale(1.05);
+}
+
+/* Adjust content distance */
+main {
+  padding-left: 2rem;
+}
+
+/* ------------------ Skills Section ------------------ */
+.skills-section h2 {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+}
+
+.skill-group {
+  margin-bottom: 2.5rem;
+}
+
+.skill-group h3 {
+  font-size: 1.3rem;
+  color: #d63384;
+  margin-bottom: 1rem;
+}
+
+.skill-block {
+  margin-bottom: 1.2rem;
+}
+
+.skill-block span {
+  display: block;
+  font-size: 1rem;
+  font-weight: 500;
+  margin-bottom: 6px;
+  color: #4c3c4c;
+}
+
+/* Skill bars */
+.bar {
+  background-color: #f8d7e6;
+  border-radius: 10px;
+  height: 10px;
+  overflow: hidden;
+}
+.fill {
+  background-color: #c56ca5;
+  height: 100%;
+  border-radius: 10px;
+}
+
+/* ------------------ Contact Box ------------------ */
+.contact-box {
+  max-width: 750px;
+  margin: 4rem auto;
+  background-color: rgba(255, 240, 245, 0.9);
+  border-radius: 20px;
+  padding: 2.5rem;
+  box-shadow: 0 0 25px rgba(255, 182, 193, 0.3);
+  text-align: center;
+  font-size: 1.15rem;
+  line-height: 2rem;
+}
+
+/* ------------------ Petals ------------------ */
+.petal {
+  position: fixed;
+  top: -50px;
+  width: 30px;
+  height: 30px;
+  background-image: url("images/sakura.png");
+  background-size: cover;
+  pointer-events: none;
+  animation: fall 8s linear infinite;
+  z-index: 1000;
+}
+
+@keyframes fall {
+  0% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(100vh) rotate(360deg);
+    opacity: 0;
+  }
+}
+
+/* ------------------ Extra Animations ------------------ */
+@keyframes fadeInUp {
+  0% { opacity: 0; transform: translateY(20px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+.fade-in-up {
+  opacity: 0;
+  animation: fadeInUp 1.3s ease-out forwards;
+}
+
+@keyframes slideIn {
+  from { opacity: 0; transform: translateX(-20px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes pulse {
+  0%   { transform: scale(1); box-shadow: 0 0 10px #ff99cc55; }
+  50%  { transform: scale(1.05); box-shadow: 0 0 16px #ff99ccaa; }
+  100% { transform: scale(1); box-shadow: 0 0 10px #ff99cc55; }
+}
+
+/* Optional Frame Styling */
+.flower-frame {
+  border: 6px dotted pink;
+  padding: 2rem;
+  border-radius: 24px;
+  background-color: rgba(255, 255, 255, 0.7);
+  box-shadow: 0 10px 30px rgba(255, 153, 204, 0.2);
+  margin-top: 1rem;
+}
+
+.doll-img {
+  width: 120px;
+  margin: 0 auto;
+  display: block;
+}
+
+/* ------------------ Right TOC: Match Left Sidebar ------------------ */
+#quarto-margin-sidebar,
+#quarto-margin-sidebar .toc,
+#quarto-margin-sidebar .sidebar-section {
+  background-color: #fff5f8;
+  border-radius: 16px;
+  box-shadow: 0 4px 18px rgba(255, 153, 204, 0.2);
+  padding: 1rem 1.2rem;
+  font-family: "Chalkboard SE", "Segoe UI", sans-serif;
+}
+
+/* TOC 标题 */
+#quarto-margin-sidebar h2,
+#quarto-margin-sidebar .toc-title {
+  font-size: 1.2rem;
+  color: #d63384;
+  text-align: center;
+  font-family: "Chalkboard SE", "Segoe UI", sans-serif;
+  margin-bottom: 1rem;
+}
+
+#quarto-margin-sidebar a,
+#quarto-margin-sidebar nav a,
+#quarto-margin-sidebar .toc a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 220px;
+  font-size: 1rem !important;
+  font-weight: 600;
+  color: #5c3a4c;
+  padding: 0.4rem 0.8rem;
+  margin: 0.25rem auto;
+  border-radius: 10px;
+  text-decoration: none;
+  letter-spacing: 0.3px;
+  transition: all 0.2s ease-in-out;
+}
+
+/* hover  */
+#quarto-margin-sidebar a:hover {
+  background-color: #ffe6f2;
+  color: #b4005a;
+  transform: scale(1.05);
+}

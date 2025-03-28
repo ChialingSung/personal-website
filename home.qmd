@@ -1,0 +1,40 @@
+---
+title: "Welcome to My Website"
+page-layout: full
+format:
+  html:
+    css: styles.css
+    includes:
+      after-body:
+        - particle-script.html
+        - sakura.js
+---
+
+:::{=html}
+<!-- Particle background container -->
+<div id="particles-js"></div>
+:::
+
+<div style="text-align: center; padding-top: 2rem;">
+
+<!-- Optional profile picture -->
+<img src="images/myself.png" alt="Myself" width="160px" style="border-radius: 50%; margin-bottom: 1rem;"/>
+
+## 💗 Hi, I'm Chialing Sung
+
+🎓 I'm a graduate student at **Boston University - MET**, pursuing a Master's in **Applied Business Analytics**.
+
+</div>
+
+With a strong foundation in **Accounting**, I approach data with precision and structure. My passion for **Analytics** and **Machine Learning** drives me to transform data into meaningful business insights.
+
+<div style="text-align: center; margin-top: 2rem;">
+
+### ✨ EXPLORE MY SITE
+
+<a href="about.qmd" class="button-link">About Me</a><br>
+<a href="projects.qmd" class="button-link">Projects</a><br>
+<a href="Chialing_Sung_CV.pdf" class="button-link" download>Download CV</a><br>
+<a href="contact.qmd" class="button-link">Contact</a>
+
+</div>

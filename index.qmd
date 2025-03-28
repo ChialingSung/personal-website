@@ -1,0 +1,43 @@
+---
+title: ""
+page-layout: full
+format:
+  html:
+    toc: false 
+    css: styles.css
+    includes:
+      after-body:
+        - particle-script.html
+        - sakura.js
+---
+
+<div id="particles-js"></div>
+
+<div class="hero-container">
+  <!-- cute doll -->
+  <img src="images/doll.png" alt="Cute Doll" class="doll-img" />
+
+  <!--  -->
+  <div class="flower-frame">
+
+<div class="hero-text">
+  <em>Welcome to my website!</em>
+  <br><br>
+
+  <strong>My name is Chialing Sung 💖</strong>
+  <br><br>
+
+  💼 Graduate Student at <strong>Boston University - MET</strong>
+  <br><br>
+
+  📊 Pursuing a Master’s in <strong>Applied Business Analytics</strong>
+  <br><br>
+
+  🧾 With a background in <strong>Accounting</strong><br>
+  & a passion for <strong>Analytics & Machine Learning</strong> 💻✨
+  <br><br>
+
+  <a href="home.qmd" class="button-link">🌸 Enter Portfolio</a>
+</div>
+
+
